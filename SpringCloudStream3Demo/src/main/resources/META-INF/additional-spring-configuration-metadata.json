@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.cloud.stream.function.definition",
+      "type": "java.lang.String",
+      "description": "Description for spring.cloud.stream.function.definition."
+  }
+] }
